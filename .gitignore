@@ -126,6 +126,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+secrets.toml
 env/
 venv/
 ENV/
